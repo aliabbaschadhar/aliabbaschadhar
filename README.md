@@ -1,82 +1,138 @@
 # Hi 👋, I'm Ali Abbas Chadhar  
 
-### 🚀 Full Stack & DevOps Engineer | 💡 Passionate Learner | 🌍 From Pakistan  
-
-![Profile Views](https://komarev.com/ghpvc/?username=aliabbaschadhar&label=Profile%20views&color=0e75b6&style=flat)
-
----
+## 🚀 Full Stack & DevOps Engineer | 💡 Passionate Learner |  From Pakistan  
 
 ## 🌟 About Me  
 
 - 🔭 Currently working on **[Novahost](https://novahost.ybro.tech)**  
-- 🌱 Learning **Full Stack Web Development, DevOps, and AI**  
+- 🌱 Interested in **Full Stack Web Development, DevOps, and AI**  
 - 👨‍💻 Check out all my projects at **[ybro.tech](https://ybro.tech)**  
 - 💬 Ask me about **DevOps, Cloud, and Full-Stack Development**  
-- 📫 Reach me at **work.aliabbaschadhar@gmail.com**  
+- 📫 Reach me at **<work.aliabbaschadhar@gmail.com>**  
 
 ---
 
 ## 🤝 Connect With Me  
 
-<p align="left">
-  <a href="https://twitter.com/abbas_chadhar30" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ali-abbas-chadhar-9a3322312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/aliabbas.theprodigy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abbas_chadhar30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-abbas-chadhar-9a3322312)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliabbas.theprodigy)
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Tech Stack & Tools  
+
+### 🌐 Frontend Technologies  
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/> </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" width="50" height="50"/> </a>
+  <a href="https://ui.shadcn.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="shadcn" width="50" height="50"/> </a>
+  <a href="https://www.chartjs.org/" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a>
+  <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="background-color: white; padding: 8px; border-radius: 8px;"/> </a>
+</p>
+
+### 🚀 Backend & Runtime  
+
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://bun.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="50" height="50"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+</p>
+
+### 🗄️ Databases & ORMs  
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
+  <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> </a>
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
+  <a href="https://clickhouse.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="clickhouse" width="50" height="50"/> </a>
+  <a href="https://www.timescale.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17179016?s=200&v=4" alt="timescaledb" width="50" height="50"/> </a>
+</p>
+
+### 📡 Message Queues & Streaming  
+
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
+  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
+  <a href="https://redis.io/docs/data-types/streams/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis-streams" width="50" height="50"/> </a>
+</p>
+
+### 🔐 Authentication & Authorization  
+
+<p align="left">
+  <a href="https://next-auth.js.org/" target="_blank"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" width="50" height="50"/> </a>
+</p>
 
 ### ☁️ Cloud & DevOps  
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>
-  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/> </a>
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
+  <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50"/> </a>
+  <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/> </a>
+  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="60" height="40" style="padding: 5px; border-radius: 5px;"/> </a>
 </p>
 
-### 💻 Programming Languages  
+### 🔧 Infrastructure & Orchestration  
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/> </a>
+  <a href="https://helm.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="50" height="50"/> </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="50" height="50"/> </a>
 </p>
 
-### 🚀 Frameworks & Libraries  
+### 📊 Monitoring & Observability  
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="60" height="60"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
+  <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/> </a>
+  <a href="https://grafana.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/> </a>
 </p>
 
-### 🗄️ Databases & Messaging  
+### 🚀 CI/CD & Version Control  
+
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
-  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="github-actions" width="50" height="50" style="background-color: white; padding: 8px; border-radius: 8px;"/> </a>
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
+
+<div align="center">
+  
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliabbaschadhar&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabbaschadhar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aliabbaschadhar&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliabbaschadhar" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=aliabbaschadhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabbaschadhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </p>
 
----
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliabbaschadhar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliabbaschadhar&theme=tokyo-night&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true)
+
+</div>
