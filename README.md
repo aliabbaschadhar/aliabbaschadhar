@@ -43,7 +43,7 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://bun.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="50" height="50"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiICBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdCb3g9IjAgMCAyNCAyNCIgPg0KPCEtLUJveGljb25zIHYzLjAgaHR0cHM6Ly9ib3hpY29ucy5jb20gfCBMaWNlbnNlICBodHRwczovL2RvY3MuYm94aWNvbnMuY29tL2ZyZWUtLT4NCjxwYXRoIGQ9Im0xMy43OCAxNi45MiAzLjM1LTQuNTQuNDIuNTUgMi44NyA0YTEuMjYgMS4yNiAwIDAgMCAxLjU4LjZsLTQtNS4zM2EuNTYuNTYgMCAwIDEgMC0uODJsMi4xLTIuNzQgMS41NS0yYTEuMTggMS4xOCAwIDAgMC0xLjQ5LjU1bC0zIDQtMy00YTEuMzEgMS4zMSAwIDAgMC0xLjU4LS41NWw0IDUuMi00LjI5IDUuNzdhMS4yMyAxLjIzIDAgMCAwIDEuNDktLjY5TTkuOTMgNy4xOWE0LjgxIDQuODEgMCAwIDAtNy41NyAyLjczTDIgMTEuNjV2MWE1IDUgMCAwIDEgLjExLjU3IDUuNDIgNS40MiAwIDAgMCAxLjM3IDMuMiA1LjI0IDUuMjQgMCAwIDAgNi4wOS43OCA0LjQ5IDQuNDkgMCAwIDAgMi4xNS0zLjNjLS41Mi0uMTYtLjgxLS4wNy0xIC40OWEzLjM2IDMuMzYgMCAwIDEtMi4xNSAyLjM5Yy0zLjI1IDEuMDktNS44LTEuMDUtNS42Ni00LjU5aDguOWMuMS0yLS4zLTMuNzYtMS44OC01bS03IDQuMjJDMyA4Ljc3IDQuNzYgNyA3LjE2IDdjMi4xOCAwIDMuNzcgMS44NCAzLjgzIDQuNHoiPjwvcGF0aD4NCjwvc3ZnPg==" alt="express" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
@@ -63,7 +63,7 @@
 ### 📡 Message Queues & Streaming  
 
 <p align="left">
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/305719/apachekafka.svg" alt="kafka" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
   <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
   <a href="https://redis.io/docs/data-types/streams/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis-streams" width="50" height="50"/> </a>
 </p>
