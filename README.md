@@ -58,13 +58,13 @@
   <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> </a>
   <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
   <a href="https://clickhouse.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="clickhouse" width="50" height="50"/> </a>
-  <a href="https://www.timescale.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17179016?s=200&v=4" alt="timescaledb" width="50" height="50"/> </a>
+  <a href="https://www.timescale.com/" target="_blank"> <img src="https://s3.amazonaws.com/assets.timescale.com/timescale-web/brand-images/badge/yellow/logo-yellow.png" alt="timescaledb" width="50" height="50"/> </a>
 </p>
 
 ### 📡 Message Queues & Streaming  
 
 <p align="left">
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/305719/apachekafka.svg" alt="kafka" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5L_S5QwqANYYUOly_Z_W6YDk24OMZY5Otw&s" alt="kafka" width="50" height="50"/> </a>
   <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
   <a href="https://redis.io/docs/data-types/streams/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis-streams" width="50" height="50"/> </a>
 </p>
