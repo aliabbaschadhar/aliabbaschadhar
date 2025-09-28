@@ -58,7 +58,7 @@
   <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> </a>
   <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
   <a href="https://clickhouse.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="clickhouse" width="50" height="50"/> </a>
-  <a href="https://www.timescale.com/" target="_blank"> <img src="https://s3.amazonaws.com/assets.timescale.com/timescale-web/brand-images/badge/yellow/logo-yellow.png" alt="timescaledb" width="50" height="50"/> </a>
+  <a href="https://www.timescale.com/" target="_blank"> <img src="https://assets.tigerdata.com/timescale-web/shared/logo/black-badge-animated.gif" alt="timescaledb" width="50" height="50"/> </a>
 </p>
 
 ### 📡 Message Queues & Streaming  
