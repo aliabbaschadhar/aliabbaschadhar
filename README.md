@@ -55,6 +55,7 @@
   <a href="https://bun.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="express" width="50" height="50"/> </a>
   <a href="https://hono.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="hono" width="50" height="50"/> </a>
+  <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 </p>
 
