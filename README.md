@@ -4,9 +4,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on **[Novahost](https://novahost.ybro.tech)**  
 - 🌱 Interested in **Full Stack Web Development, DevOps, and AI**  
-- 👨‍💻 Check out all my projects at **[ybro.tech](https://ybro.tech)**  
 - 💬 Ask me about **DevOps, Cloud, and Full-Stack Development**  
 - 📫 Reach me at **<work.aliabbaschadhar@gmail.com>**  
 
@@ -14,9 +12,23 @@
 
 ## 🤝 Connect With Me  
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abbas_chadhar30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-abbas-chadhar-9a3322312)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliabbas.theprodigy)
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>      <a href="https://twitter.com/abbas_chadhar30" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X" width="50" height="50"/>
+      </a>
+      <a href="https://linkedin.com/in/ali-abbas-chadhar-9a3322312" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+      </a>
+      <a href="https://instagram.com/aliabbas.theprodigy" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
+      </a>
+    </div>
+    <div>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="300"/>
+    </div>
+  </div>
+</div>
 
 ---
 
