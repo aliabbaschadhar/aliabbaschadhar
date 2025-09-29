@@ -55,6 +55,7 @@
   <a href="https://bun.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="express" width="50" height="50"/> </a>
   <a href="https://hono.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="hono" width="50" height="50"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 </p>
 
 ### 🗄️ Databases & ORMs  
@@ -74,6 +75,7 @@
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5L_S5QwqANYYUOly_Z_W6YDk24OMZY5Otw&s" alt="kafka" width="50" height="50"/> </a>
   <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
   <a href="https://redis.io/docs/data-types/streams/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis-streams" width="50" height="50"/> </a>
+  <a href="https://socket.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socket.io" width="50" height="50"/> </a>
 </p>
 
 ### 🔐 Authentication & Authorization  
