@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ali Abbas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Life+long+learner!;I+use+ARCH+btw!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;I+use+ARCH+btw!" alt="Typing SVG" />
 
 </div>
 
