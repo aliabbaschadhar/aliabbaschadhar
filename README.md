@@ -14,7 +14,7 @@
  ❤️ Love building *efficient and scalable applications* that solve real-world problems  
  💬 Ask me about **DevOps, Cloud, and Full-Stack Development**  
  📫 Reach me at **<work.aliabbaschadhar@gmail.com>**
- 
+
 ---
 
 ## 🤝 Connect With Me  
@@ -24,6 +24,9 @@
     <div style="display: flex; justify-content: center; gap: 20px;">
       <a href="https://twitter.com/abbas_chadhar30" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X" width="50" height="50"/>
+      </a>
+      <a href="https://aliabbaschadhar.hashnode.dev" target="_blank">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress&w=200&h=200" alt="Hashnode" width="50" height="50"/>
       </a>
       <a href="https://linkedin.com/in/ali-abbas-chadhar-9a3322312" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
@@ -69,6 +72,8 @@
     <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/> </a>
     <a href="https://ui.shadcn.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="shadcn" width="50" height="50"/> </a>
     <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="background-color: white; padding: 8px; border-radius: 8px;"/> </a>
+    <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo.svg" alt="vitest" width="50" height="50"/> </a>
+    <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="50" height="50"/> </a>
   </p>
 </div>
 
@@ -83,6 +88,8 @@
     <a href="https://hono.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="hono" width="50" height="50"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+    <a href="https://trpc.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" alt="trpc" width="50" height="50"/> </a>
+    <a href="https://www.openapis.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/16343502?s=200&v=4" alt="openapi" width="50" height="50"/> </a>
   </p>
 </div>
 
@@ -93,6 +100,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
     <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> </a>
+    <a href="https://orm.drizzle.team/" target="_blank"> <img src="https://orm.drizzle.team/favicon.svg" alt="drizzle" width="50" height="50"/> </a>
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
     <a href="https://clickhouse.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="clickhouse" width="50" height="50"/> </a>
     <a href="https://www.timescale.com/" target="_blank"> <img src="https://assets.tigerdata.com/timescale-web/shared/logo/black-badge-animated.gif" alt="timescaledb" width="50" height="50"/> </a>
@@ -115,6 +123,15 @@
 <div style="display:inline-block; text-align:center; max-width:900px;">
   <p align="center">
     <a href="https://next-auth.js.org/" target="_blank"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" width="50" height="50"/> </a>
+  </p>
+</div>
+
+### 🛡️ Security & Verification  
+
+<div style="display:inline-block; text-align:center; max-width:900px;">
+  <p align="center">
+    <a href="https://www.google.com/recaptcha/" target="_blank"> <img src="https://www.gstatic.com/recaptcha/admin/directory/logo.png" alt="recaptcha" width="50" height="50"/> </a>
+    <a href="https://www.hcaptcha.com/" target="_blank"> <img src="https://www.hcaptcha.com/favicon.ico" alt="hcaptcha" width="50" height="50"/> </a>
   </p>
 </div>
 
