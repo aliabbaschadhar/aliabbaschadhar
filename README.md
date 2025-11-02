@@ -73,7 +73,7 @@
     <a href="https://ui.shadcn.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="shadcn" width="50" height="50"/> </a>
     <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="background-color: white; padding: 8px; border-radius: 8px;"/> </a>
     <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo.svg" alt="vitest" width="50" height="50"/> </a>
-    <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="50" height="50"/> </a>
+    <a href="https://www.cypress.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmtyerOsIHJ4qF84e6tKiRtq3FmpJsa06Wg&s" alt="cypress" width="50" height="50"/> </a>
   </p>
 </div>
 
@@ -83,7 +83,7 @@
   <p align="center">
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
     <a href="https://bun.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="50" height="50"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="express" width="50" height="50"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="50" height="50"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/> </a>
     <a href="https://hono.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="hono" width="50" height="50"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/> </a>
@@ -100,7 +100,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
     <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> </a>
-    <a href="https://orm.drizzle.team/" target="_blank"> <img src="https://orm.drizzle.team/favicon.svg" alt="drizzle" width="50" height="50"/> </a>
+    <a href="https://orm.drizzle.team/" target="_blank"> <img src="https://pic.vsixhub.com/22/91/rphlmr.vscode-drizzle-orm-logo.webp" alt="drizzle" width="50" height="50"/> </a>
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
     <a href="https://clickhouse.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="clickhouse" width="50" height="50"/> </a>
     <a href="https://www.timescale.com/" target="_blank"> <img src="https://assets.tigerdata.com/timescale-web/shared/logo/black-badge-animated.gif" alt="timescaledb" width="50" height="50"/> </a>
@@ -130,12 +130,13 @@
 
 <div style="display:inline-block; text-align:center; max-width:900px;">
   <p align="center">
-    <a href="https://www.google.com/recaptcha/" target="_blank"> <img src="https://www.gstatic.com/recaptcha/admin/directory/logo.png" alt="recaptcha" width="50" height="50"/> </a>
-    <a href="https://www.hcaptcha.com/" target="_blank"> <img src="https://www.hcaptcha.com/favicon.ico" alt="hcaptcha" width="50" height="50"/> </a>
+    <a href="https://www.google.com/recaptcha/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRgxA9AIDTW1pOaKc4FWe8XiGqygJwptrQA&s" alt="recaptcha" width="50" height="50"/> </a>
+    <a href="https://www.hcaptcha.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/40/1/hcaptcha-logo-png_seeklogo-402299.png" alt="hcaptcha" width="50" height="50"/> </a>
+    <a href="https://www.cloudflare.com/products/turnstile/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQbI10CGSaDf9KKEq9zJhM1XD1kH0-WSUEg&s" alt="cloudflare-turnstile" width="50" height="50"/> </a>
   </p>
 </div>
 
-### 🤖 AI & LangChain Ecosystem  
+<!-- ### 🤖 AI & LangChain Ecosystem  
 
 <div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap; justify-content:center; margin:10px 0;">
   <a href="https://www.langchain.com/" target="_blank">
@@ -150,7 +151,7 @@
   <a href="https://python.langchain.com/docs/langserve" target="_blank">
     <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangServe" style="height:50px; width:50px; object-fit:contain; border-radius:8px;"/>
   </a>
-</div>
+</div> -->
 
 ### ☁️ Cloud & DevOps  
 
