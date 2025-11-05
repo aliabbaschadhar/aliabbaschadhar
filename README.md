@@ -131,7 +131,7 @@
 <div style="display:inline-block; text-align:center; max-width:900px;">
   <p align="center">
     <a href="https://www.google.com/recaptcha/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRgxA9AIDTW1pOaKc4FWe8XiGqygJwptrQA&s" alt="recaptcha" width="50" height="50"/> </a>
-    <a href="https://www.hcaptcha.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/40/1/hcaptcha-logo-png_seeklogo-402299.png" alt="hcaptcha" width="50" height="50"/> </a>
+    <a href="https://www.hcaptcha.com/" target="_blank"> <img src="https://meta-q.cdn.bubble.io/f1714025485524x664881416941012240/hCaptcha.png" alt="hcaptcha" width="50" height="50"/> </a>
     <a href="https://www.cloudflare.com/products/turnstile/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQbI10CGSaDf9KKEq9zJhM1XD1kH0-WSUEg&s" alt="cloudflare-turnstile" width="50" height="50"/> </a>
   </p>
 </div>
