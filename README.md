@@ -139,10 +139,10 @@
 <div style="text-align:center; max-width:900px;">
   <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;align-items:center;margin:0;">
     <a href="https://owasp.org/www-project-threat-dragon/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://owasp.org/www-project-threat-dragon/assets/images/cupcake-256x256.png" alt="owasp-threat-dragon" width="50" height="50"/> </a>
-    <a href="https://gitleaks.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/zricethezav/gifs/master/gitleakslogo.png" alt="gitleaks" width="50" height="50"/> </a>
+    <a href="https://gitleaks.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/90395851?s=400&v=4" alt="gitleaks" width="50" height="50"/> </a>
     <a href="https://github.com/dependabot" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/27347476?s=280&v=4" alt="dependabot" width="50" height="50"/> </a>
     <a href="https://www.checkov.io/" target="_blank" style="display:inline-block;margin:6px"> <img src= "https://www.clouddefense.ai/wp-content/uploads/2024/02/Checkov-2.png" alt="checkov" width="50" height="50"/> </a>
-    <a href="https://www.trivy.dev/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://miro.medium.com/v2/1*zEcUVR_Dy2h19HUi4XBJPA.png" alt="trivy" width="50" height="50"/> </a>
+    <a href="https://www.trivy.dev/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIeQveL2unVxXus0p40gtG_3Uj4OXAbArfw&s" alt="trivy" width="50" height="50"/> </a>
     <a href="https://github.com/hadolint/hadolint" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/34047791?v=4" alt="hadolint" width="50" height="50"/> </a>
     <a href="https://kyverno.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="50" height="50"/> </a>
     <a href="https://www.sonarqube.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrUm-CiI0TJMtmTBQedLCnumHgQeBqMdeag&s" alt="sonarqube" width="50" height="50"/> </a>
