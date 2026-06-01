@@ -188,10 +188,10 @@
     <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4" alt="alertmanager" width="50" height="50"/> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/> </a>
     <a href="https://www.elastic.co/elasticsearch" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/> </a>
-    <a href="https://fluentbit.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/88448939?s=200&v=4" alt="fluentbit" width="50" height="50"/> </a>
-    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic_kibana/elastic_kibana-icon.svg" alt="kibana" width="50" height="50"/> </a>
-    <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jaegertracing/jaegertracing-icon.svg" alt="jaeger" width="50" height="50"/> </a>
-    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opentelemetry/opentelemetry-icon.svg" alt="opentelemetry" width="50" height="50"/> </a>
+    <a href="https://fluentbit.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxuOIw15loXYOLVect9nmEU_DKVOcU9oD0Nw&s" alt="fluentbit" width="50" height="50"/> </a>
+    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="kibana" width="50" height="50"/> </a>
+    <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiA0ETD6XFeMk7fSPnZOUvEqReLuWvy08Rw&s" alt="jaeger" width="50" height="50"/> </a>
+    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadHwRKMVRZIN7aTkqCdXCAvCbZY-WcOCskg&s" alt="opentelemetry" width="50" height="50"/> </a>
   </p>
 </div>
 
