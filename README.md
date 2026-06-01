@@ -175,7 +175,7 @@
     <a href="https://helm.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="50" height="50"/> </a>
     <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="50" height="50"/> </a>
     <a href="https://spacelift.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/53318513?s=280&v=4" alt="spacelift" width="50" height="50"/> </a>
-    <a href="https://turbo.build/" target="_blank"> <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" alt="turborepo" width="50" height="50"/> </a>
+    <a href="https://turbo.build/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/42/2/turborepo-logo-png_seeklogo-428038.png" alt="turborepo" width="50" height="50"/> </a>
     <a href="https://monorepo.tools/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23692104?s=200&v=4" alt="monorepo" width="50" height="50"/> </a>
   </p>
 </div>
