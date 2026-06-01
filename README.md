@@ -145,7 +145,7 @@
     <a href="https://www.trivy.dev/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIeQveL2unVxXus0p40gtG_3Uj4OXAbArfw&s" alt="trivy" width="50" height="50"/> </a>
     <a href="https://github.com/hadolint/hadolint" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/34047791?v=4" alt="hadolint" width="50" height="50"/> </a>
     <a href="https://kyverno.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="50" height="50"/> </a>
-    <a href="https://www.sonarqube.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrUm-CiI0TJMtmTBQedLCnumHgQeBqMdeag&s" alt="sonarqube" width="50" height="50"/> </a>
+    <a href="https://www.sonarqube.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="http://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/sonarqube-wfwqce1r71mfdft7psl1mr.png/sonarqube-jq8o8plqgopnbwetlsta7.png?_a=DATAiZAAZAA0" alt="sonarqube" width="50" height="50"/> </a>
     <a href="https://www.zaproxy.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OWASP_ZAP_logo.svg/3840px-OWASP_ZAP_logo.svg.png" alt="owasp-zap" width="50" height="50"/> </a>
   </p>
 </div>
