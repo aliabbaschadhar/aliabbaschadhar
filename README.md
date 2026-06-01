@@ -10,10 +10,8 @@
 
 ## 🌟 About Me  
 
- 🌱 Interested in **Full Stack Web Development, DevOps, and AI**  
- ❤️ Love building *efficient and scalable applications* that solve real-world problems  
- 💬 Ask me about **DevOps, Cloud, and Full-Stack Development**  
- 📫 Reach me at **<work.aliabbaschadhar@gmail.com>**
+ 🌱 Interested in **Full Stack Web Development, DevOps, and AI** ❤️ Love building *efficient and scalable applications* that solve real-world problems  
+ 💬 Ask me about **DevOps, Cloud, and Full-Stack Development** 📫 Reach me at **<work.aliabbaschadhar@gmail.com>**
 
 ---
 
@@ -136,22 +134,21 @@
   </p>
 </div>
 
-<!-- ### 🤖 AI & LangChain Ecosystem  
+### 🔒 DevSecOps & Cloud Security  
 
-<div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap; justify-content:center; margin:10px 0;">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" style="height:50px; width:50px; object-fit:contain; border-radius:8px;"/>
-  </a>
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" style="height:50px; width:50px; object-fit:contain; border-radius:8px;"/>
-  </a>
-  <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjS5fJvvxHS5ME1rtaNWaEnrbAL03ndhJiA&s" alt="LangSmith" style="height:50px; width:50px; object-fit:contain; border-radius:8px;"/>
-  </a>
-  <a href="https://python.langchain.com/docs/langserve" target="_blank">
-    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangServe" style="height:50px; width:50px; object-fit:contain; border-radius:8px;"/>
-  </a>
-</div> -->
+<div style="text-align:center; max-width:900px;">
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;align-items:center;margin:0;">
+    <a href="https://owasp.org/www-project-threat-dragon/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/15124112?s=200&v=4" alt="owasp-threat-dragon" width="50" height="50"/> </a>
+    <a href="https://gitleaks.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/74640161?s=200&v=4" alt="gitleaks" width="50" height="50"/> </a>
+    <a href="https://github.com/dependabot" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dependabot/dependabot-original.svg" alt="dependabot" width="50" height="50"/> </a>
+    <a href="https://www.checkov.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/58883657?s=200&v=4" alt="checkov" width="50" height="50"/> </a>
+    <a href="https://www.privy.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/104973330?s=200&v=4" alt="privy" width="50" height="50"/> </a>
+    <a href="https://github.com/hadolint/hadolint" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/23306263?s=200&v=4" alt="hadolint" width="50" height="50"/> </a>
+    <a href="https://kyverno.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="50" height="50"/> </a>
+    <a href="https://www.sonarqube.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="50" height="50"/> </a>
+    <a href="https://www.zaproxy.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/156942004?s=200&v=4" alt="owasp-zap" width="50" height="50"/> </a>
+  </p>
+</div>
 
 ### ☁️ Cloud & DevOps  
 
@@ -188,7 +185,13 @@
 <div style="display:inline-block; text-align:center; max-width:900px;">
   <p align="center">
     <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/> </a>
+    <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4" alt="alertmanager" width="50" height="50"/> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/> </a>
+    <a href="https://www.elastic.co/elasticsearch" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/> </a>
+    <a href="https://fluentbit.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/88448939?s=200&v=4" alt="fluentbit" width="50" height="50"/> </a>
+    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic_kibana/elastic_kibana-icon.svg" alt="kibana" width="50" height="50"/> </a>
+    <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jaegertracing/jaegertracing-icon.svg" alt="jaeger" width="50" height="50"/> </a>
+    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opentelemetry/opentelemetry-icon.svg" alt="opentelemetry" width="50" height="50"/> </a>
   </p>
 </div>
 
@@ -207,7 +210,7 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  
+
 ### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliabbaschadhar&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
