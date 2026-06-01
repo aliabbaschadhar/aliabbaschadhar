@@ -146,7 +146,7 @@
     <a href="https://github.com/hadolint/hadolint" target="_blank" style="display:inline-block;margin:6px"> <img src="https://avatars.githubusercontent.com/u/34047791?v=4" alt="hadolint" width="50" height="50"/> </a>
     <a href="https://kyverno.io/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="50" height="50"/> </a>
     <a href="https://www.sonarqube.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrUm-CiI0TJMtmTBQedLCnumHgQeBqMdeag&s" alt="sonarqube" width="50" height="50"/> </a>
-    <a href="https://www.zaproxy.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://media.licdn.com/dms/image/v2/C5112AQHX9T9I9XCIRw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1586766458581?e=2147483647&v=beta&t=O4qC646npQihKCsZdqr7_T_1hS1XGwYe4cmyfzFF2OA" alt="owasp-zap" width="50" height="50"/> </a>
+    <a href="https://www.zaproxy.org/" target="_blank" style="display:inline-block;margin:6px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OWASP_ZAP_logo.svg/3840px-OWASP_ZAP_logo.svg.png" alt="owasp-zap" width="50" height="50"/> </a>
   </p>
 </div>
 
